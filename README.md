@@ -1,6 +1,20 @@
 ### Hello 👋
 
-Hi, I'm Kyle! I'm a software engineer who loves solving hard problems and building software that improves peoples lives. When I'm not writing code, you can find me  surfing, reading, or listening to electronic music.  
+Hi, I'm Kyle! I'm a software engineer who loves solving hard problems. I'm proficient in:
+  - HTML5/CSS
+  - Javascript
+  - React.js
+  - Node.js
+  - Python
+  - PostgreSQL
++ many more, and I'm always learning new technologies. 
+
+When I'm not writing code, you can find me: 
+  - Surfing🏄‍♂️
+  - Reading📚 
+  - Listening to music
+
+Contact me: kplynds3@gmail.com 
 
 <!--
 **kplynds/kplynds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
