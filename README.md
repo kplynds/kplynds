@@ -9,7 +9,7 @@ Hi, I'm Kyle! I'm a software engineer who loves solving hard problems. I'm profi
   - PostgreSQL
   - many more, and I'm always learning new technologies. 
 
-When I'm not writing code, you can find me surfing, reading, listening to music. 
+When I'm not writing code, you can find me surfing, reading, or listening to music. 
 
 Contact me: kplynds3@gmail.com 
 
