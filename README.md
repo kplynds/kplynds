@@ -11,7 +11,7 @@ Hi, I'm Kyle! I'm a software engineer who loves solving hard problems. I'm profi
 
 When I'm not writing code, you can find me surfing, reading, or listening to music. 
 
-Contact me: kplynds3@gmail.com 
+My personal website is kylelynds.com
 
 <!--
 **kplynds/kplynds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
